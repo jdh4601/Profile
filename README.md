@@ -18,7 +18,6 @@
 
 <h3>status</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdh4601&show_icons=true&locale=en&layout=compact" alt="jdh4601" /></p>
-<h3>stats</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdh4601&show_icons=true&locale=en" alt="jdh4601" /></p>
 <h3>streaks</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jdh4601&" alt="jdh4601" /></p>
