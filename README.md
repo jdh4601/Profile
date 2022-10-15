@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm DongHyun Jung</h1>
-<h3 align="center">A passionate student who is learning Front-end</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdh4601&label=Profile%20views&color=0e75b6&style=flat" alt="jdh4601" /> </p>
 
