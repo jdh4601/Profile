@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm DongHyun Jung</h1>
+<h1 align="center">Hi there 👋, I'm DongHyun Jung</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdh4601&label=Profile%20views&color=0e75b6&style=flat" alt="jdh4601" /> </p>
 
 - 🌱 I’m currently learning **React.js**
+- 🚀 The journey into full-stack developer.
 - 📝 I regularly write articles on [https://velog.io/@jdh4601](https://velog.io/@jdh4601)
 - 📫 How to reach me **jdh9490@gmail.com**
 
