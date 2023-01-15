@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=250&section=header&text=DongHyun%20Jung&fontSize=70&fontColor=eef2f3&animation=fadeIn&descAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=220&section=header&text=DongHyun%20Jung&fontSize=50&fontColor=eef2f3&animation=fadeIn&descAlignY=30)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdh4601&label=Profile%20views&color=0e75b6&style=flat" alt="jdh4601" /> </p>
 
