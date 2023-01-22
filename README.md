@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdh4601&label=Profile%20views&color=0e75b6&style=flat" alt="jdh4601" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
-- 🚀 The journey into full-stack developer.
-- 📝 I regularly write articles on [https://velog.io/@jdh4601](https://velog.io/@jdh4601)
-- 📫 How to reach me **jdh9490@gmail.com**
+<p align="center">🌱 I’m currently learning **React.js**</p>
+<p align="center">🚀 The journey into full-stack developer.</p>
+<p align="center">📝 I regularly write articles on [https://velog.io/@jdh4601](https://velog.io/@jdh4601)</p>
+<p align="center">📫 How to reach me **jdh9490@gmail.com**</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=160&section=footer)
