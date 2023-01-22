@@ -5,6 +5,6 @@
 <p align="center">🌱 I’m currently learning Next.js</p>
 <p align="center">🚀 The journey into full-stack developer.</p>
 <p align="center">📫 How to reach me jdh9490@gmail.com</p>
-<p align="center">📝 I regularly write articles on <a href="https://velog.io/@jdh4601" alt="velog.io/jdh4601">velog</a></p>
+<p align="center">📝 I regularly write articles on <a href="https://velog.io/@jdh4601" alt="velog.io/jdh4601">velog.io/jdh4601</a></p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=160&section=footer)
