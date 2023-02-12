@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdh4601&label=Profile%20views&color=0e75b6&style=flat" alt="jdh4601" /> </p>
 
-<p align="center">🌱 I’m currently learning <strong>TypeScript</strong></p>
+<p align="center">🌱 I’m currently learning <strong>TypeScript</strong>.</p>
 <p align="center">🚀 The journey into full-stack developer.</p>
 <p align="center">📫 How to reach me jdh9490@gmail.com</p>
 <p align="center">📝 I regularly write articles on <a href="https://velog.io/@jdh4601" alt="velog.io/jdh4601">velog.io/jdh4601</a></p>
